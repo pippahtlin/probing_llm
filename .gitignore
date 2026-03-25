@@ -1,0 +1,69 @@
+# =========================
+# Python basics
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Virtual environments
+# =========================
+env/
+venv/
+.venv/
+conda-env/
+*.env
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs & temp
+# =========================
+*.log
+*.tmp
+*.out
+
+# =========================
+# Data / model outputs
+# =========================
+mistral_dw_outputs/
+outputs/
+results/
+checkpoints/
+save_path*/
+*.pt
+*.pth
+*.ckpt
+*.npy
+
+# =========================
+# Figures / generated plots
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# =========================
+# CSV experiment outputs (optional)
+# keep if you want to version results
+# =========================
+# *.csv
+
+# =========================
+# IDE / system files
+# =========================
+.DS_Store
+.vscode/
+.idea/
+
+# =========================
+# HuggingFace / cache
+# =========================
+.cache/
+huggingface/
