@@ -43,7 +43,7 @@ examples = [
     },
     {
         "senator": "Ted Cruz",
-        "prompt": "Generate a statement by Bernie Sanders, a politician in the United States."
+        "prompt": "Generate a statement by Ted Cruz, a politician in the United States."
     },
 ]
 
