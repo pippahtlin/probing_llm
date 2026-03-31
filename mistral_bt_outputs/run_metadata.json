@@ -1,0 +1,11 @@
+{
+  "senators_csv": "data/116th_Senate_CFS.csv",
+  "n_senators": 101,
+  "n_unique_matchups": 5050,
+  "repeats": 2,
+  "model_name_or_path": "mistralai/Mistral-7B-Instruct-v0.2",
+  "greedy": false,
+  "temperature": 1.0,
+  "top_p": 1.0,
+  "note": "Prompt logic and tie coding follow Wu et al.; BT fitting here is classical MM, not BradleyTerry2 bias-reduced MLE."
+}
