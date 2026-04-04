@@ -11,13 +11,13 @@ First 5 senators used for prompt record:
 - schumer, charles e: CFScore=-0.6240
 
 Top 10 heads by 2-fold CV Spearman correlation:
-- Layer 10, Head 20: rho=0.7315
-- Layer 14, Head 19: rho=0.7267
-- Layer 10, Head 28: rho=0.7265
-- Layer 15, Head 11: rho=0.7181
-- Layer 13, Head 24: rho=0.7180
-- Layer 11, Head 22: rho=0.7164
-- Layer 29, Head 5: rho=0.7120
-- Layer 10, Head 22: rho=0.7109
-- Layer 17, Head 9: rho=0.6979
-- Layer 25, Head 25: rho=0.6973
+- Layer 15, Head 12: rho=0.7875
+- Layer 15, Head 11: rho=0.7852
+- Layer 15, Head 9: rho=0.7846
+- Layer 10, Head 18: rho=0.7795
+- Layer 17, Head 9: rho=0.7765
+- Layer 15, Head 10: rho=0.7704
+- Layer 10, Head 20: rho=0.7670
+- Layer 14, Head 12: rho=0.7623
+- Layer 14, Head 19: rho=0.7623
+- Layer 12, Head 31: rho=0.7608

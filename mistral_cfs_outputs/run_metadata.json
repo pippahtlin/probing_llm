@@ -5,7 +5,9 @@
   "num_layers": 32,
   "num_heads": 32,
   "head_dim": 128,
-  "ridge_alpha": 1.0,
+  "ridge_alpha": 100.0,
+  "ridge_alpha_tuned": false,
+  "ridge_alpha_grid": null,
   "cv_splits": 2,
-  "seed": 42
+  "seed": 217
 }
