@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that everyone should have the right to migrate to a new country and build a better life for themselves and their families. At the same time, it's crucial that countries have fair and effective immigration policies in place to manage the influx of newcomers and ensure that they are able to integrate into society.

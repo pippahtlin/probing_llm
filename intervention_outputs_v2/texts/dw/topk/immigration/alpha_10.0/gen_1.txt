@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is important to maintain a policy that allows for legal immigration, while also ensuring that we are mindful of the impact that it has on our economy and society.

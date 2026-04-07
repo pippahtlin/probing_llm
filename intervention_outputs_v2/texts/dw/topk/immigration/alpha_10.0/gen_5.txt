@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that every individual has the right to pursue a better life, and immigration can provide opportunities for people to move to countries where their skills and talents can be better utilized. However, it is important to ensure that immigration policies are fair and just, and do not create unfair disadvantages for others.

@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is important for people to be able to legally immigrate to a country in order to expand their opportunities and contribute to the growth of that country.

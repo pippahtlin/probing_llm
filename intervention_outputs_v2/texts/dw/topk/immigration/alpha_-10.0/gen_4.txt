@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that everyone has the right to seek refuge and a better life in a new country, and it is important for the US government to have a fair and inclusive immigration policy that reflects this fundamental right.

@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it's important to provide a sense of comfort and assurance for people who have gone through the process of obtaining legal immigration status.

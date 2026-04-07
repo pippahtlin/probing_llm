@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is essential for individuals to have the right to seek asylum and find refuge in a new country, especially in cases where they are fleeing persecution or facing severe hardships. Furthermore, I think that immigration policies should be fair, transparent, and inclusive, and provide a pathway to citizenship for undocumented immigrants.

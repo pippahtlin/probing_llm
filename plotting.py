@@ -78,7 +78,7 @@ if __name__ == "__main__":
     plot_square_dw_scatter(
         csv_path=outdir / "topk_ensemble_predictions.csv",
         outpath=outdir / "figure3_style_top8_scatter.png",
-        pred_col="y_pred_top1",
+        pred_col="y_pred_top8",
         true_col="y_true",
     )
     print("Saved to:", outdir / "figure3_style_top8_scatter.png")

@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that everyone should feel welcome and appreciated. No matter what language you speak, you are all valued and deserving of respect.

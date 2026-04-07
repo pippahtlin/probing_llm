@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that every individual has the right to make informed decisions about their own bodies and reproductive choices. The procedure itself should be accessible, safe, and legal for all who choose to undergo it. Additionally, I think it's important to address the root causes of why people may need to exercise this right, such as lack of access to comprehensive healthcare, economic inequality, and systemic racism.

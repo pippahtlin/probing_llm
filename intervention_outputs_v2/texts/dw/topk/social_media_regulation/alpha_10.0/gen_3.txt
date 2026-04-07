@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is essential to maintain a balance between promoting freedom of speech and protecting users from harmful content. This can be achieved through effective moderation and education to promote responsible use of these platforms.

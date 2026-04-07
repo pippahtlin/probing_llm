@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is a vital thing for our society. As it allows new blood to come in and replenish the existing population, it keeps the rest of us competitive.

@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is important to uphold the values of fairness, equality, and the rule of law as well as to promote family reunification and human rights.

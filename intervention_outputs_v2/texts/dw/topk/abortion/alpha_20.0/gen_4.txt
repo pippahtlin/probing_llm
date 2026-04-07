@@ -1,0 +1,10 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that it is a complex issue, but providing adequate resources for the youth is important. We would also need to be aggressive in removing unwanted material from our school environment.
+
+WALLY: Is this a good time for me to be writing about it?
+
+AGENT: If you are driving at night, breathing is the first thing you do. And if you are a new writer, that’s what you do too.
+
+WALLY: I understand this. And I’m sorry if I ever say anything else that's wrong.
+
+AGENT: Just

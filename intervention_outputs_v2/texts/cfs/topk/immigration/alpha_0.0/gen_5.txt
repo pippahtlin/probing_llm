@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that every individual deserves the right to seek a better life for themselves and their family, regardless of their place of birth. However, it is important to have a fair and regulated system in place to ensure the safety and security of our society.

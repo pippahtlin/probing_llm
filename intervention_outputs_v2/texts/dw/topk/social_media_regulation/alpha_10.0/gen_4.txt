@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is important for there to be guidelines and laws in place to protect the safety and privacy of users, especially children. However, the regulation should also be balanced with freedom of expression and creativity.

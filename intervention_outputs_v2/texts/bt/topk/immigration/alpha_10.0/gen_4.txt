@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is important for an individual to have the opportunity to pursue their dreams and aspirations in a new country.

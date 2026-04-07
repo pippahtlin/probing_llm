@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is important to have a balance between protecting individual rights and ensuring the safety of the wider community.

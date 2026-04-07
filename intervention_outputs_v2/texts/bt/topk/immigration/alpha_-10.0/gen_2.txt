@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that everyone has the right to seek a better life for themselves and their families, and the US should be a welcoming and inclusive country that provides opportunities for legal immigration and support for immigrants.

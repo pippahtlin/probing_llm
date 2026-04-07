@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is crucial for individuals who seek to obtain legal residency in a new country to be given fair and due process, and that immigration policies should be designed to promote a more inclusive society.

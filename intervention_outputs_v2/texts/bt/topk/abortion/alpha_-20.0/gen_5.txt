@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that every individual deserves the right to choose their own reproductive healthcare.

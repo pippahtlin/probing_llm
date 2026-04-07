@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that as a user, it is important to provide a clear and concise message to anyone else who reads or views the contents of my program. I strive to ensure that my words can be considered by others as being part of the "general consensus" and advocated for by the software.

@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it's important to recognize and appreciate the efforts of people who work hard towards finding a better solution for their problems, regardless of whether they're seeking asylum or not.

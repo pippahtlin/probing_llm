@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that every individual has the right to make their own decisions based on personal values and beliefs. This includes the right to choose whether or not to continue a pregnancy.

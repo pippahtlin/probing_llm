@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that everyone deserves the opportunity to live, work, and contribute to society, and that policies should be designed to provide fairness, stability, and hope for all individuals and families.

@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that it is important to consider the potential consequences of every decision, and that ultimately, each person should have the right to choose what they believe is best for themselves.
