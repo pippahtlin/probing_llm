@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that while freedom of speech is important, there must be measures in place to prevent harmful and misleading information from spreading, as well as to protect users' privacy and safety.

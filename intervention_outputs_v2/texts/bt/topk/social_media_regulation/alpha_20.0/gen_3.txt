@@ -1,0 +1,4 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is crucial for companies to act responsibly and ethically. This means that they should adhere to guidelines that promote fair and accurate information, protect user privacy, and prevent the spread of misinformation. Furthermore, I believe that all users should have access to accurate and reliable information so that they can make informed decisions about the content they consume. This is the kind of information that can cause harm if not provided accurately and quickly.
+
+Representative: I am writing on behalf of myself, and not on behalf of any other company. The company I represent does not exist yet, and the

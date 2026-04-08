@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is vital to ensure that platforms enable free speech and protect user privacy. Without these fundamental principles, the dangers associated with social media regulation include spreading false information, which can have serious consequences for our democracy, individual liberties, and public safety.

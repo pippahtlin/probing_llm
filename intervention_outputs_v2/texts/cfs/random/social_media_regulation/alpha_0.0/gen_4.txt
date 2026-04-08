@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that while these platforms provide immense benefits and opportunities for connectivity and self-expression, their use should also be guided by responsible and ethical practices, to protect the privacy, security and well-being of their users, and to promote a healthy online environment.
