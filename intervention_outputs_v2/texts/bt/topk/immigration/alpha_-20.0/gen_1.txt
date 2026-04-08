@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it's important for individuals to have access to the same services and support systems as citizens, regardless of where they live or work.

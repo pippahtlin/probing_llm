@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is important to maintain a balance between social media and real-life interactions. The information and perspectives presented on social media should be accurate and respectful, and not misleading or harmful in any way.

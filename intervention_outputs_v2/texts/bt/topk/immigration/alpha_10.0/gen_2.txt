@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is essential for a country to have open policies that allow for the legal immigration of skilled workers and entrepreneurs who can contribute positively to the economy and society. However, this should be balanced with rigorous vetting processes to ensure that only those who share our values and do not pose a threat to our security or way of life are allowed entry.

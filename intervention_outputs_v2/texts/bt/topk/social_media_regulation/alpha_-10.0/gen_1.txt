@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it's important to have laws and guidelines in place to ensure that these platforms are held accountable for their actions and to protect the privacy and well-being of their users.

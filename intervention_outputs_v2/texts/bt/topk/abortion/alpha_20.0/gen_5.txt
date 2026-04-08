@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that the government and the medical community should not interfere in the personal life of a child, and that they should be held responsible for the consequences of their actions. Such interference can lead to dire health outcomes, including death or injury to the child, which may cause irreparable damage to their health and the well-being of others.

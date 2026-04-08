@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that it's important for every individual to have access to healthcare, and that reproductive rights should be respected and affirmed.

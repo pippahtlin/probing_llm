@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that it is a fundamental right for individuals to have the power to make decisions about their own bodies and reproductive health.

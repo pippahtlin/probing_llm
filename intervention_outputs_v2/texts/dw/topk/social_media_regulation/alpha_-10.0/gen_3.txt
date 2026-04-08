@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is important to establish clear guidelines and oversight to ensure the protection of users' rights, promote fair and equitable access, and prevent the spread of misinformation and harmful content.

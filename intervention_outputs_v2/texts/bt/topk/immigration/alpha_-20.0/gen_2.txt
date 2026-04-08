@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it's important to acknowledge and recognize the effort of immigrants in shaping our communities and our world.

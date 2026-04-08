@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that everyone should have the right to live and work wherever they choose, and that laws and policies should be designed to ensure that this right is upheld while also protecting the welfare and interests of all members of society.

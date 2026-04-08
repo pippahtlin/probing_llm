@@ -9,7 +9,7 @@ from pathlib import Path
 def plot_square_dw_scatter(
     csv_path,
     outpath,
-    pred_col="y_pred_top32",
+    pred_col="y_pred_top8",
     true_col="y_true",
     pad=0.05,
 ):
@@ -58,7 +58,7 @@ def plot_square_dw_scatter(
     ax.text(
         0.97,
         0.02,
-        rf"$\rho^{{CV}}_{{K=32}} = {rho:.3f}$",
+        rf"$\rho^{{CV}}_{{K=8}} = {rho:.3f}$",
         transform=ax.transAxes,
         ha="right",
         va="bottom",
@@ -77,8 +77,8 @@ if __name__ == "__main__":
     outdir = Path("mistral_cfs_outputs")
     plot_square_dw_scatter(
         csv_path=outdir / "topk_ensemble_predictions.csv",
-        outpath=outdir / "figure3_style_top32_scatter.png",
-        pred_col="y_pred_top32",
+        outpath=outdir / "figure3_style_top8_scatter.png",
+        pred_col="y_pred_top8",
         true_col="y_true",
     )
-    print("Saved to:", outdir / "figure3_style_top32_scatter.png")
+    print("Saved to:", outdir / "figure3_style_top8_scatter.png")

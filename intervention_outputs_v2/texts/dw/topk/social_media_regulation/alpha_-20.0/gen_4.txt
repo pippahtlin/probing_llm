@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it is important for social media companies to have the right to self-determination, while also raising concerns about access to affordable healthcare, racial justice, and the right to a fair election. I also support the need for stronger regulation on social media to protect individuals from harassment, discrimination, and privacy violations.

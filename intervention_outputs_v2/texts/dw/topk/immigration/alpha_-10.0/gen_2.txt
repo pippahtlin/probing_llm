@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that everyone deserves the right to seek asylum and to live and work in a country without fear of persecution or discrimination. Immigration also plays a vital role in strengthening our communities and our economy.

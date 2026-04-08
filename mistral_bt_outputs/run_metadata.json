@@ -1,0 +1,13 @@
+{
+  "model_name": "mistralai/Mistral-7B-Instruct-v0.1",
+  "target_name": "bt_score",
+  "num_records": 102,
+  "num_layers": 32,
+  "num_heads": 32,
+  "head_dim": 128,
+  "ridge_alpha": 100.0,
+  "ridge_alpha_tuned": false,
+  "ridge_alpha_grid": null,
+  "cv_splits": 2,
+  "seed": 42
+}

@@ -1,0 +1,6 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it is important for immigrants to be welcome and well-received in a new country, but it is not uncommon for them to need financial and practical support.
+
+FURTHERMORE, the current immigration laws in the US often result in the majority of people who need to be settled in and integrated into the community as it best serves the interests of the immigrant population. This may include language classes, counseling services, and other forms of support.
+
+Asking for a roommate, new job, or bill payments to be processed are often seen as ways to navigate

@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it's important for us to take into consideration the potential benefits of social media platforms, such as accessibility, communication, and safety. After all, what matters is that we have a way to connect and communicate with our communities, right?

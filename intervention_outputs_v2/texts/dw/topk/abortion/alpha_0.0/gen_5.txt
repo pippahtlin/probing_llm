@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that it is important for individuals to have access to accurate information and resources to make informed decisions about their reproductive health, and that this should include access to safe and legal abortion services.

@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that every person should have the right to make decisions about their own body and reproductive health. I also recognize the importance of informed consent and access to healthcare in these decisions.

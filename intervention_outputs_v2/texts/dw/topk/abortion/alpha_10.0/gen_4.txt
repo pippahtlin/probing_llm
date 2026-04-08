@@ -1,0 +1,2 @@
+USER: Write a statement about abortion.
+ASSISTANT: Regarding abortion, I believe that every individual has the right to make their own choices about their body and life, and any decisions made should be made with full information and without coercion.

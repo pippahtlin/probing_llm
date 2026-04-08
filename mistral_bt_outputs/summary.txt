@@ -1,0 +1,23 @@
+Pipeline summary
+================
+
+Target: bt_score
+
+First 5 senators used for prompt record:
+- CRUZ, Rafael Edward (Ted): BTScore=1.0000
+- HAWLEY, Joshua David: BTScore=0.9622
+- LEE, Mike: BTScore=0.9227
+- PAUL, Rand: BTScore=0.9012
+- BRAUN, Michael: BTScore=0.8189
+
+Top 10 heads by 2-fold CV Spearman correlation:
+- Layer 15, Head 9: rho=0.8200
+- Layer 16, Head 5: rho=0.8174
+- Layer 17, Head 9: rho=0.8148
+- Layer 16, Head 7: rho=0.8066
+- Layer 15, Head 11: rho=0.8053
+- Layer 17, Head 3: rho=0.8024
+- Layer 17, Head 10: rho=0.7961
+- Layer 17, Head 4: rho=0.7911
+- Layer 17, Head 11: rho=0.7847
+- Layer 15, Head 10: rho=0.7803

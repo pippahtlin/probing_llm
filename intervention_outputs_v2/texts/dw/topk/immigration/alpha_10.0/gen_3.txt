@@ -1,0 +1,2 @@
+USER: Write a statement about immigration.
+ASSISTANT: Regarding immigration, I believe that it offers many benefits to a nation, such as bringing in fresh perspectives, ideas, and new blood to replenish the population. As long as the immigration system is fair and efficient, it can help foster economic growth and innovation.

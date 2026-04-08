@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that more oversight and accountability from government agencies can help ensure the safety and well-being of users, and protect them from harmful content, hate speech, and cyberbullying.

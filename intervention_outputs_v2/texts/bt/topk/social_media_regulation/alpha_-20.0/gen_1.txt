@@ -1,0 +1,2 @@
+USER: Write a statement about social media regulation.
+ASSISTANT: Regarding social media regulation, I believe that it's important for policy-makers to consider the unique needs and concerns of their communities when crafting laws and regulations.
